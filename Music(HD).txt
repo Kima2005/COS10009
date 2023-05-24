@@ -1,0 +1,115 @@
+9
+album_images/Myfavourite.png
+My favourite
+Anonymous
+1
+4
+Gatal
+music(HD)/Gatal.mp3
+Home
+music(HD)/Home.mp3
+Somebody That I Used To Know
+music(HD)/Somebody That I Used To Know.mp3
+Lovethewayyoulie
+music(HD)/Lovethewayyoulie.mp3
+album_images/Chinesemusic.png
+Chinese music
+Feng Timo
+3
+5
+Gặp Người Đúng Lúc
+music(HD)/Gặp Người Đúng Lúc.mp3
+Quẻ bói
+music(HD)/Quẻ bói.mp3
+Một triệu khả năng
+music(HD)/Một triệu khả năng.mp3
+Ánh Trăng Nói Hộ Lòng Em
+music(HD)/Ánh Trăng Nói Hộ Lòng Em.mp3
+Ác ma đến từ thiên đường
+music(HD)/Ác ma đến từ thiên đường.mp3
+album_images/VIDEOCLUB.png
+VIDEOCLUB
+Adele Castillon
+1
+4
+Amour plastique
+music(HD)/Amour plastique.mp3
+Enfance 80
+music(HD)/Enfance 80.mp3
+Euphories
+music(HD)/Euphories.mp3
+Mai
+music(HD)/Mai.mp3
+album_images/EDM.png
+EDM
+Alan Walker
+2
+3
+Faded
+music(HD)/Faded.mp3
+Alone
+music(HD)/Alone.mp3
+In The End
+music(HD)/In The End.mp3
+album_images/Englishmusic.png
+English music
+Lenka
+1
+4
+The Show
+music(HD)/The Show.mp3
+Shots
+music(HD)/Shots.mp3
+Make you mine
+music(HD)/make u mine - slowed.mp3
+Just Give Me A Reason
+music(HD)/Just Give Me A Reason.mp3
+album_images/tiktokmusic.png
+TIKTOK music
+Sia
+1
+3
+Dance Monkey
+music(HD)/DANCE MONKEY.mp3
+Creep
+music(HD)/Creep.mp3
+Leave a light on
+music(HD)/Leave a light on.mp3
+album_images/sadmusic.png
+Sad music
+7Clouds
+4
+4
+Snowman
+music(HD)/Snowman.mp3
+Mad World
+music(HD)/Mad World.mp3
+Glimpse of Us
+music(HD)/Glimpse of Us.mp3
+7 years
+music(HD)/7 Years.mp3
+album_images/frenchmusic.png
+French music
+Brochu
+1
+3
+CLIO
+music(HD)/CLIO.mp3
+Maintenant ou jamais
+music(HD)/Maintenant ou jamais.mp3
+Marie Flore
+music(HD)/Marie Flore.mp3
+album_images/Koreanmusic.png
+Korean music
+HONG JIN YOUNG
+1
+2
+Tell me
+music(HD)/Tell me.mp3
+Cheer Up
+music(HD)/Cheer Up.mp3
+
+
+
+
+
